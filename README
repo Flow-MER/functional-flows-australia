@@ -35,7 +35,7 @@ using RStudio.
 
 The contents of this repository include
 
-/data (** Not on git repo **)
+/data 
   Lachlan@Jemalong_Weir_412036.txt
     - The hydrological test data set that spans 49 years of daily (mega litres
       per day) in-stream data from the Jemalong Weir gauge in the Lachlan selected 
